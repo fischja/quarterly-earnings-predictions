@@ -1,7 +1,7 @@
 # Quarterly Earnings Predictions
 This code accompanies the research paper "A Machine Learning Approach to Time Series Forecasting of Quarterly Earnings"
 
-## Prerequisites
+### Prerequisites
 Make sure that python, numpy, scipy, sk-learn and pandas are installed
 
 ### Running
